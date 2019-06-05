@@ -1,5 +1,5 @@
 # assignment_190614
-## Shinyツールチームへの6月11日（金）までの課題
+## Shinyツールチームへの6月11日（火）までの課題
 shinyチームに配属されたメンバーは、*combineData_example.R*とその解説書*commentary_doc.pdf*を参考にして、**year2018_ブランチ名.csv**を出力して保存するR Scriptファイルを作成してください。
 期限は、**6月11日(火）の午後9時まで**とします。
 
